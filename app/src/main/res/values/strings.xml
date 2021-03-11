@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Llamadas</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="btn_llamada">Llamada</string>
+
+
+    //Registrarse
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Nombre">Nombre</string>
+    <string name="apellidoP">Apellido Paterno</string>
+    <string name="apellidoM">Apellido Materno</string>
+    <string name="Telefono">Telefono</string>
+</resources>
